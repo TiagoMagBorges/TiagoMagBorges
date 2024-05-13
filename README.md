@@ -1,11 +1,10 @@
 ### Tiago Magela Borges
 
 - Cursando Bacharelado em Sistemas de Informação (UFU)
-
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoMagBorges&show_icons=true&theme=onedark&card_width=500px)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoMagBorges&show_icons=true&theme=transparent&card_width=500px)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoMagBorges&layout=compact&theme=onedark&card_width=500)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoMagBorges&layout=compact&theme=transparent&card_width=500)
 
 
 <div style="display: inline_block"><br>
