@@ -1,6 +1,6 @@
 ### Tiago Magela Borges
 
-- Desenvolvedor Fullstack | Java | JavaScript | Node.js | React |
+- Desenvolvedor Fullstack | Java | JavaScript | Node.js | React | Angular 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoMagBorges&show_icons=true&theme=transparent&card_width=500px)
 
